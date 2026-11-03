@@ -80,7 +80,10 @@ Este repositorio tiene fines informativos y de organización de archivos. Antes 
 ## 📎 IMPORTANTE
 
 Esta documentacion fue tomada de facebook, el autor lo compartio por medio de un enlace de `MediaFire`.
-si tienes problemas con la instalacio acude al grupo del cual fue tomado este proyecto; `https://web.facebook.com/share/g/1MZTtYk5Cw/` 
+si tienes problemas con la instalacio acude al grupo del cual fue tomado este proyecto; `https://web.facebook.com/share/g/1MZTtYk5Cw/` . 
+
+##  👤 AUTOR
+Gracias al miembro ` Ivan Sanchez ` por compartir el proyecto en el grupo de facebook
 
 
 ---
