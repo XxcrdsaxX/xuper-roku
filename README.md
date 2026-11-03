@@ -29,9 +29,11 @@ Mantener todos los archivos relacionados con JGLCUSTOMS IPTV para Roku organizad
 
 Este repositorio tiene fines informativos y de organización de archivos. Antes de utilizar cualquier archivo, revisa su contenido y asegúrate de conocer su procedencia.
 
-## 👨‍💻 Autor
+## 📎 IMPORTANTE
 
-Repositorio personal de recopilación y documentación.
+Esta documentacion fue tomada de facebook, el autor lo compartio por medio de un enlace de `MediaFire`.
+si tienes problemas con la instalacio acude al grupo del cual fue tomado este proyecto; `https://web.facebook.com/share/g/1MZTtYk5Cw/` 
+
 
 ---
 
