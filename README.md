@@ -15,6 +15,55 @@ Aquí encontrarás manuales, documentación y recursos necesarios para consultar
 
 *La estructura puede cambiar a medida que se agreguen nuevos archivos.*
 
+
+# 📥 ¿Cómo descargar el proyecto?
+
+Puedes obtener todos los archivos de este repositorio de tres maneras:
+
+## 1. Desde GitHub (sin instalar programas)
+
+1. Entra a la página principal del repositorio.
+2. Haz clic en el botón verde **Code**.
+3. Selecciona **Download ZIP**.
+4. Espera a que termine la descarga.
+5. Extrae el archivo ZIP en la ubicación que prefieras.
+
+## 2. Desde Git Bash
+
+1. Abre Git Bash.
+2. Ubícate en la carpeta donde quieres guardar el proyecto.
+3. Ejecuta el siguiente comando:
+
+```bash
+git clone URL_DEL_REPOSITORIO
+```
+
+4. Presiona Enter y espera a que se descarguen los archivos.
+
+## 3. Desde CMD de Windows
+
+1. Abre el Símbolo del sistema (CMD).
+2. Dirígete a la carpeta donde quieres guardar el proyecto:
+
+```cmd
+cd Desktop
+```
+
+3. Ejecuta el comando:
+
+```cmd
+git clone URL_DEL_REPOSITORIO
+```
+
+4. Presiona Enter y espera a que finalice la descarga.
+
+> **Nota:** Para utilizar Git Bash o CMD necesitas tener [Git instalado](https://git-scm.com/downloads).
+
+---
+
+**¡Listo!** Ya tendrás una copia del proyecto en tu computador.
+
+
 ## 📖 Documentación
 
 Puedes consultar las instrucciones de instalación desde el manual HTML o revisar el documento TXT original.
