@@ -8,8 +8,7 @@ Aquí encontrarás manuales, documentación y recursos necesarios para consultar
 
 | Archivo o carpeta               | Descripción                                                           |
 | ------------------------------- | --------------------------------------------------------------------- |
-| `manual_jglcustoms_rokutv.html` | Manual en formato HTML, con diseño visual y navegación por secciones. |
-| `leer instalacion.txt`          | Documento de texto original con las instrucciones de instalación.     |
+| `manual.html` | Manual en formato HTML, con diseño visual y navegación por secciones. |
 | `instalador/`                   | Archivos relacionados con el instalador, si se incluyen.              |
 | `recursos/`                     | Imágenes y otros recursos complementarios.                            |
 
